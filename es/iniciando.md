@@ -3,7 +3,7 @@ layout: default
 title: Iniciación a la minería Bitcoin
 description: Iniciación a la minería Bitcoin
 toc:
-  hbmw: How Bitcoin Mining Works
+  hbmw: Cómo Funciona Bitcoin Mining
   gmhw: Get The Best Bitcoin Mining Hardware
   sm: How To Start Bitcoin Mining
   cloud: Bitcoin Cloud Mining Contracts
